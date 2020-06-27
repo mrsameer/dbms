@@ -1,0 +1,9 @@
+Fname,Mname,Lname,Ssn,Bdate,Address,Sex,Salary,Super_ssn,Dno
+James,E,Borg,888665555,10/11/37,"450 Stone, Houston,TX",M,55000,null,1
+Franklin,T,Wong,333445555,08/12/55,"638 Voss, Houston,TX",F,40000,888665555,5
+John,B,Smith,123456789,09/01/65,"731 Fondren, Houston,TX",M,30000,333445555,5
+Jennifer,S,Wallace,987654321,20/06/41,"291 Berry, Bellaire,TX",F,43000,888665555,4
+Alicia,J,Zelaya,999887777,19/01/68,"3321 Castle, Spring,TX",F,25000,987654321,4
+Ramesh,K,Narayan,666884444,15/09/62,"75 Fire Oak, Humble,TX",M,38000,333445555,5
+Joyce,A,English,453453453,31/07/72,"5631 Rice, Houston,TX",F,25000,333445555,5
+Ahmad,V,Jabbar,987987987,29/03/69,"980 Dallas, Houston,TX",M,25000,987654321,4
